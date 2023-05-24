@@ -1,3 +1,5 @@
-## Description:
+# Ethereum Price Prediction
 
-I attempt to predict the future price of Ethereum (ETH) using Support Vector Regression for its robust yet flexible properties. The dataset consists of the opening, high, low, and closing price of a single coin since its inception.
+### Motivation 
+<p> As an economics student, I became fascinated with the idea of arbitrage - exploits of short-lived variations in the price of identical or similar financial instruments in different markets or in different forms. By applying a prediction algorithm (albeit a simple one) to Ethereum, the world's most popular altcoin, I figured I might be able to purchase Ethereum from one exchange for a particular rate, and then selling it on another trading platform offering a higher rate, making a profit from the initial buy price. 
+</p>
