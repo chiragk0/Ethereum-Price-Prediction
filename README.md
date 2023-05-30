@@ -12,4 +12,4 @@
 ### Ideas for the Future
 - Test my arbitrage strategy on historical data to evaluate its performance and profitability.
 - Integrate with cryptocurrency exchange APIs to fetch real-time market data, place orders, and monitor account balances.
-- Develop a monitoring system that tracks the performance of your arbitrage trades in real-time.
+- Develop a monitoring system that tracks the performance of my arbitrage trades in real-time.
